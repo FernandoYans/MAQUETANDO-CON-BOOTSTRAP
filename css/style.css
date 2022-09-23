@@ -9,7 +9,6 @@
     height: 90vh;
 }
 
-.footer {
-    grid-area: footer;
-    background-color: #e96acd;
-  }
+.distancia {
+    height: 50$;
+}
