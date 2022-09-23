@@ -4,11 +4,8 @@
     font-family: 'Figtree', sans-serif;
 }
 
+
 .imgfondo {
     background-image: url("../img/fondoinicio.jpg");
     height: 90vh;
-}
-
-.distancia {
-    height: 50$;
 }
